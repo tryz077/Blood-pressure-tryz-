@@ -14,7 +14,7 @@
       <lil>blood pressure komaw</lil>
       </ul>
       <p>
-    <img src="C:\Users\Jannatul\Downloads\tetul.jpg">
+    <img src="C:\Users\Jannatul\Downloads\tetul.jpg/"> alt=Blood Pressure reduces
 
 "> 
     </p>
