@@ -8,12 +8,14 @@
 </head>
 <body>
     <h1>Welcome to my tech world. Tryz.tech</h1>
-    <p>sample website by Tyseer Alvee</p>
+
     <ul>
      <lil>tetul khaw </lil>
       <lil>blood pressure komaw</lil>
       </ul>
-    <img src="C:\Users\Jannatul\Desktop\321421146_515768810535992_4188527161170934749_n (1)"> alt="Blood pressure"
+      <p>
+    <img src="C:\Users\Jannatul\Desktop\321421146_515768810535992_4188527161170934749_n (1)"> 
+    </p>
 
 
     
