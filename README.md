@@ -14,8 +14,8 @@
       <lil>blood pressure komaw</lil>
       </ul>
       <p>
-    <img src="file:///C:/Users/Jannatul/Pictures/Screenshots/Screenshot%20(1).png">
-    </img>
+    <img src="file:///C:/Users/Jannatul/Downloads/%E2%80%94Pngtree%E2%80%94set%20of%20tamarind%20isolated%20on_5221676.png" height="100p" width="50p"/>
+    
 
  
     </p>
