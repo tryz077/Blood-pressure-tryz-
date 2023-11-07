@@ -14,7 +14,9 @@
       <lil>blood pressure komaw</lil>
       </ul>
       <p>
-    <img src="C:\Users\Jannatul\Desktop\321421146_515768810535992_4188527161170934749_n (1)"> 
+    <img src="C:\Users\Jannatul\Downloads\tetul.jpg">
+
+"> 
     </p>
 
 
