@@ -13,12 +13,13 @@
      <lil>tetul khaw </lil>
       <lil>blood pressure komaw</lil>
       </ul>
-      <p>
-    <img src="file:///C:/Users/Jannatul/Downloads/%E2%80%94Pngtree%E2%80%94set%20of%20tamarind%20isolated%20on_5221676.png" height="100p" width="50p"/>
+      
+      <body>
+    <img src="file:///C:/Users/Jannatul/Downloads/tetul.jpg.jpg" height="500p" width="200p" alt="high pressure kills">
     
-
+</body>
  
-    </p>
+    
 
 
     
