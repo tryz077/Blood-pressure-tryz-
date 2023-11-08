@@ -15,7 +15,8 @@
       </ul>
       
       <body>
-    <img src=" img/istockphoto-182798884-1024x1024.jpg" height="500p" width="200p" alt="high pressure kills">
+      <hr>
+    <img src=" img/file:///C:/Users/Jannatul/Downloads/tetul.jpg.jpg" width="250p" alt="images">
     
 </body>
  
