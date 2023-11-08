@@ -16,7 +16,7 @@
       
       <body>
       <hr>
-    <img src=" img/file:///C:/Users/Jannatul/Downloads/tetul.jpg.jpg" width="250p" alt="images">
+    <img src="img/tetul.jpg.jpg" width="250" >alt="Blood pressure"
     
 </body>
  
