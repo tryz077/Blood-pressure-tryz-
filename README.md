@@ -15,7 +15,7 @@
       </ul>
       
       <body>
-    <img src=" istockphoto-182798884-1024x1024.jpg" height="500p" width="200p" alt="high pressure kills">
+    <img src=" img/istockphoto-182798884-1024x1024.jpg" height="500p" width="200p" alt="high pressure kills">
     
 </body>
  
